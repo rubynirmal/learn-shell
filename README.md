@@ -7,5 +7,7 @@ list of shell scripting topics.
 3. loops
 4. conditions
 5. statements
+6. Things
+7. 
 
 
