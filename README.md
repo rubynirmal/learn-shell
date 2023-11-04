@@ -1,3 +1,5 @@
 # learn-shell 
 
-topics 
+list of shell scripting topics.
+
+
