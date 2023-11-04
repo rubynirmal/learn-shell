@@ -6,6 +6,6 @@ list of shell scripting topics.
 2. variables
 3. loops
 4. conditions
-5. 
+5. statements
 
 
