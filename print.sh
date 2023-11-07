@@ -18,3 +18,5 @@ echo -e  "\e[32m this text in green color \e[0m"
 echo -e  "\e[33m this text is yellow color \e[0m"
 
 echo -e   "\e[34m this text is blue color \e[0m"
+echo -e   "\e[35 this message is magenta color \e[0m"
+
