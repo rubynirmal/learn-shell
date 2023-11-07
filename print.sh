@@ -22,4 +22,4 @@ echo -e   "\e[35m this text is magenta color \e[0m"
 echo -e    "\e[36m this text is cyan color \e[0m"
 
 
-echo e"\e[33m this text is yellow color \e[0m"
+echo -e  "\e[33m this is yellow color \e[0m"
