@@ -13,9 +13,6 @@ echo hello world
 # \E[0m -> This is to disable the enabled color
 
 
-echo -e  "\e[31n this text in red color \e[0m"
+echo -e  "\e[31 this text in red color \e[0m"
 echo -e "\e[32n this text in green color \e[0m"
-echo -e "\e[33n this text in yellow color \e[0m"
-echo -e "\e[34n this text in blue color \e[0m"
-echo -e "\e[35n this text in magenta color \e[0m"
-echo -e "\e[36n this color in cyan color \e[0m"
+
