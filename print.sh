@@ -23,3 +23,4 @@ echo -e    "\e[36m this text is cyan color \e[0m"
 
 
 echo -e  "\e[33m this is yellow color \e[0m"
+echo -e "\e[31m this text is red color \e[0m"
