@@ -18,3 +18,7 @@
       echo Nirmal Ruby
       a=$(($a-1))
     done
+
+ for fruit in apple banana orange ; do
+   echo fruit name -$fruit
+   done
