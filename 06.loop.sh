@@ -21,4 +21,5 @@
 
  for fruit in apple banana orange ; do
    echo fruit name -$fruit
+   sleep 1
    done
